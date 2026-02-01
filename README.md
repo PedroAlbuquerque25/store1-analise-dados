@@ -33,4 +33,9 @@ Como os dados estão embutidos no arquivo, basta abrir o notebook:
 1. Navegue até a pasta `notebooks/`.
 2. Abra o arquivo `Store 1.ipynb`.
 3. Certifique-se de que a extensão Jupyter está ativa no seu VS Code.
-4. Execute as células para ver os resultados impressos diretamente no editor.
+4. Execute as células para ver os resultados impressos diretamente no editor
+
+---
+
+## 🤝 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaa/).
