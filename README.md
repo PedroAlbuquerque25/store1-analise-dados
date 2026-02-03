@@ -1,4 +1,4 @@
-# Store 1 - Análise de Dados Inicial
+# Store 1 - Data Analysis Project
 
 ## 📝 Descrição do Projeto
 Este foi o meu primeiro projeto prático no bootcamp de Data Science da **Tripleten**. O objetivo principal foi exercitar a lógica de programação em Python e a manipulação de estruturas de dados (listas e dicionários).
